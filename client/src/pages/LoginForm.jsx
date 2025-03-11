@@ -6,7 +6,7 @@ function LoginForm() {
     return (
         <div className='min-h-screen justify-center items-center flex flex-col font-mono'>
             <form
-                className='shadow-md p-4 w-[450px] border border-gray-300 rounded-xl space-y-4'
+                className='shadow-md p-4 w-[400px] border border-gray-300 rounded-xl space-y-4'
             >
                 <div>
                     <p className='text-2xl font-black'>Login</p>
